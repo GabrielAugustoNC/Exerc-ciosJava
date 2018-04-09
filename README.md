@@ -1,2 +1,2 @@
-# Exerc-ciosJava
+# ExerciciosJava
 Exercícios - Desenvolvimento Java 
